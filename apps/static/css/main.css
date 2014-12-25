@@ -1,0 +1,21 @@
+/* SIDEBAR */
+/* ------- */
+.sidebar-header {
+  margin: 28px 0;
+  padding-bottom: 23px;
+  border-bottom: 1px solid #eeeeee;
+  line-height: 1;
+}
+
+.slide{
+	display: block;
+}
+
+.ex{
+    padding-left: 14%;
+}
+
+.sidebar{
+    margin-top: 53px;
+    margin-right: 5px;
+}
